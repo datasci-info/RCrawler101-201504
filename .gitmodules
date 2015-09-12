@@ -1,0 +1,6 @@
+[submodule "CaseStudies/Case4SevenElevenAddress/RCrawlerTW711"]
+	path = CaseStudies/Case4SevenElevenAddress/RCrawlerTW711
+	url = https://github.com/datasci-info/RCrawlerTW711.git
+[submodule "CaseStudies/Case6PttGossiping/RPTT"]
+	path = CaseStudies/Case6PttGossiping/RPTT
+	url = https://github.com/datasci-info/RPTT.git
