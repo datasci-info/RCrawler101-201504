@@ -7,7 +7,7 @@ library(XML)
 getStockMajorData = function(stockId) {
   # Connector
   # url = "http://tw.stock.yahoo.com/d/s/major_2451.html"
-  stockId = "2451"
+  # stockId = "2451"
   url = sprintf("http://tw.stock.yahoo.com/d/s/major_%s.html",as.character(stockId))
   res <- GET(url)
   content(res, "text", encoding = "big5")
